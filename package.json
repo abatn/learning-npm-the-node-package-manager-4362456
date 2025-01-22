@@ -16,6 +16,8 @@
     "express": "^4.21.2"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0"
+    "babel": "^5.8.38",
+    "babel-cli": "^6.26.0",
+    "cli": "^1.0.1"
   }
 }
